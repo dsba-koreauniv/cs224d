@@ -14,7 +14,7 @@ Original course homepage: http://cs224d.stanford.edu/
    - Slide with presentation
 5. Practical tips (Kim, HS)
    - Slide with presentation
-6. Introduction to TensorFlow(Skip)
+6. Introduction to TensorFlow (Skip)
    - Skip
 7. Recurrent neural networks (Cho, SH)
    - Slide with presentation
@@ -23,8 +23,8 @@ Original course homepage: http://cs224d.stanford.edu/
 9. Recursive neural networks: for parsing (Lee, KC)
    - Slide with presentation
 10. Recursive neural networks: for different tasks (e.g. sentiment analysis) (Kim, CY)
-    - Slide with presentation
-11. Convolutional neural networks: for sentence classification(Lee, KC)
+   - Slide with presentation
+11. Convolutional neural networks: for sentence classification (Lee, KC)
     - Slide with presentation
 12. Applications of DL to NLP (Kim, HD)
     - Slide with presentation
