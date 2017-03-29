@@ -19,7 +19,7 @@ Original course homepage: http://cs224d.stanford.edu/
 5. Practical tips ([Kim, HS](https://github.com/hskim0263))
     - [Slide](Slide/) with presentation
 6. Introduction to TensorFlow
-  - Skip
+    - Skip
 7. Recurrent neural networks (Cho, SH)
     - [Slide](Slide/) with presentation
 8. GRUs and LSTMs ([Kim, HS](https://github.com/hskim0263))
@@ -27,7 +27,7 @@ Original course homepage: http://cs224d.stanford.edu/
 9. Recursive neural networks: for parsing (Lee, GC)
     - [Slide](Slide/) with presentation
 10. Recursive neural networks: for different tasks (e.g. sentiment analysis) ([Kim, CY](https://github.com/czangyeob))
-   - [Slide](Slide/) with presentation
+    - [Slide](Slide/) with presentation
 11. Convolutional neural networks: for sentence classification (Lee, GC)
     - [Slide](Slide/) with presentation
 12. Applications of DL to NLP (Kim, HD)
